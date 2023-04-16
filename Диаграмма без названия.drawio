@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T20:22:18.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.147 Safari/537.36" etag="haI3elRycm8yKkipvj3v" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-16T08:39:32.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.147 Safari/537.36" etag="W5pYcrlfA3qWRz2ToftX" version="21.1.8" type="github">
   <diagram name="Страница 1" id="RkXb-8S4fWnHpUMPrnvh">
-    <mxGraphModel dx="636" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="755" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,11 +18,11 @@
             <mxPoint y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bf2rIBIbnjmRnptonr-x-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bf2rIBIbnjmRnptonr-x-6" target="bf2rIBIbnjmRnptonr-x-31">
+        <mxCell id="bf2rIBIbnjmRnptonr-x-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bf2rIBIbnjmRnptonr-x-6" target="bf2rIBIbnjmRnptonr-x-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="60" y="230" />
-              <mxPoint x="60" y="850" />
+              <mxPoint x="60" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -120,6 +120,11 @@
         </mxCell>
         <mxCell id="bf2rIBIbnjmRnptonr-x-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bf2rIBIbnjmRnptonr-x-22" target="bf2rIBIbnjmRnptonr-x-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bf2rIBIbnjmRnptonr-x-41" value="возврат тикета&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bf2rIBIbnjmRnptonr-x-25">
+          <mxGeometry x="-0.4907" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bf2rIBIbnjmRnptonr-x-22" value="Need fixing" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="560" width="80" height="80" as="geometry" />
